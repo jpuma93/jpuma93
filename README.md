@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm José Puma Chávez</h1>
 <h3 align="center">A passionate software developer 👨‍💻</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 <h5 align="left">Backend:</h5>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
